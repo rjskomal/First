@@ -111,6 +111,776 @@ const resList = [
     },
     {
       "info": {
+        "id": "2506767",
+        "name": "Go Fresh - The Pizza House",
+        "cloudinaryImageId": "qxazqzn7kwmulsz2pdsl",
+        "locality": "Malkajgiri",
+        "areaName": "Malkajgiri",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+          "Italian",
+          "Pizzas"
+        ],
+        "avgRating": 4.01,
+        "parentId": "2916",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "10K+",
+        "sla": {
+          "deliveryTime": 20,
+          "lastMileTravel": 2.4,
+          "serviceability": "SERVICEABLE",
+          "slaString": "20-25 mins",
+          "lastMileTravelString": "2.4 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-07-14 23:59:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "badgeType": "BADGE_TYPE_ONE_LITE"
+        },
+        "orderabilityCommunication": {
+          "title": {
+            
+          },
+          "subTitle": {
+            
+          },
+          "message": {
+            
+          },
+          "customIcon": {
+            
+          }
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        },
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "4.1",
+            "ratingCount": "1K+"
+          },
+          "source": "GOOGLE",
+          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-b461b3ff-6685-455f-94bf-54063248bcf5"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/go-fresh-the-pizza-house-malkajgiri-hyderabad-25009",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "25009675",
+        "name": "Go Fresh - The Pizza House",
+        "cloudinaryImageId": "qxazqzn7kwmulsz2pdsl",
+        "locality": "Malkajgiri",
+        "areaName": "Malkajgiri",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+          "Italian",
+          "Pizzas"
+        ],
+        "avgRating": 4.412,
+        "parentId": "2916",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "10K+",
+        "sla": {
+          "deliveryTime": 20,
+          "lastMileTravel": 2.4,
+          "serviceability": "SERVICEABLE",
+          "slaString": "20-25 mins",
+          "lastMileTravelString": "2.4 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-07-14 23:59:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "badgeType": "BADGE_TYPE_ONE_LITE"
+        },
+        "orderabilityCommunication": {
+          "title": {
+            
+          },
+          "subTitle": {
+            
+          },
+          "message": {
+            
+          },
+          "customIcon": {
+            
+          }
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        },
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "4.1",
+            "ratingCount": "1K+"
+          },
+          "source": "GOOGLE",
+          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-b461b3ff-6685-455f-94bf-54063248bcf5"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/go-fresh-the-pizza-house-malkajgiri-hyderabad-25009",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "250094564",
+        "name": "Go Fresh - The Pizza House",
+        "cloudinaryImageId": "qxazqzn7kwmulsz2pdsl",
+        "locality": "Malkajgiri",
+        "areaName": "Malkajgiri",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+          "Italian",
+          "Pizzas"
+        ],
+        "avgRating": 4.57,
+        "parentId": "2916",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "10K+",
+        "sla": {
+          "deliveryTime": 20,
+          "lastMileTravel": 2.4,
+          "serviceability": "SERVICEABLE",
+          "slaString": "20-25 mins",
+          "lastMileTravelString": "2.4 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-07-14 23:59:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "badgeType": "BADGE_TYPE_ONE_LITE"
+        },
+        "orderabilityCommunication": {
+          "title": {
+            
+          },
+          "subTitle": {
+            
+          },
+          "message": {
+            
+          },
+          "customIcon": {
+            
+          }
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        },
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "4.1",
+            "ratingCount": "1K+"
+          },
+          "source": "GOOGLE",
+          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-b461b3ff-6685-455f-94bf-54063248bcf5"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/go-fresh-the-pizza-house-malkajgiri-hyderabad-25009",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "2500945645",
+        "name": "Go Fresh - The Pizza House",
+        "cloudinaryImageId": "qxazqzn7kwmulsz2pdsl",
+        "locality": "Malkajgiri",
+        "areaName": "Malkajgiri",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+          "Italian",
+          "Pizzas"
+        ],
+        "avgRating": 3.9,
+        "parentId": "2916",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "10K+",
+        "sla": {
+          "deliveryTime": 20,
+          "lastMileTravel": 2.4,
+          "serviceability": "SERVICEABLE",
+          "slaString": "20-25 mins",
+          "lastMileTravelString": "2.4 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-07-14 23:59:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "badgeType": "BADGE_TYPE_ONE_LITE"
+        },
+        "orderabilityCommunication": {
+          "title": {
+            
+          },
+          "subTitle": {
+            
+          },
+          "message": {
+            
+          },
+          "customIcon": {
+            
+          }
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        },
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "4.1",
+            "ratingCount": "1K+"
+          },
+          "source": "GOOGLE",
+          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-b461b3ff-6685-455f-94bf-54063248bcf5"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/go-fresh-the-pizza-house-malkajgiri-hyderabad-25009",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "250096565",
+        "name": "Go Fresh - The Pizza House",
+        "cloudinaryImageId": "qxazqzn7kwmulsz2pdsl",
+        "locality": "Malkajgiri",
+        "areaName": "Malkajgiri",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+          "Italian",
+          "Pizzas"
+        ],
+        "avgRating": 4.0,
+        "parentId": "2916",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "10K+",
+        "sla": {
+          "deliveryTime": 20,
+          "lastMileTravel": 2.4,
+          "serviceability": "SERVICEABLE",
+          "slaString": "20-25 mins",
+          "lastMileTravelString": "2.4 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-07-14 23:59:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "badgeType": "BADGE_TYPE_ONE_LITE"
+        },
+        "orderabilityCommunication": {
+          "title": {
+            
+          },
+          "subTitle": {
+            
+          },
+          "message": {
+            
+          },
+          "customIcon": {
+            
+          }
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        },
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "4.1",
+            "ratingCount": "1K+"
+          },
+          "source": "GOOGLE",
+          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-b461b3ff-6685-455f-94bf-54063248bcf5"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/go-fresh-the-pizza-house-malkajgiri-hyderabad-25009",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "25009456",
+        "name": "Go Fresh - The Pizza House",
+        "cloudinaryImageId": "qxazqzn7kwmulsz2pdsl",
+        "locality": "Malkajgiri",
+        "areaName": "Malkajgiri",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+          "Italian",
+          "Pizzas"
+        ],
+        "avgRating": 4.1,
+        "parentId": "2916",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "10K+",
+        "sla": {
+          "deliveryTime": 20,
+          "lastMileTravel": 2.4,
+          "serviceability": "SERVICEABLE",
+          "slaString": "20-25 mins",
+          "lastMileTravelString": "2.4 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-07-14 23:59:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "badgeType": "BADGE_TYPE_ONE_LITE"
+        },
+        "orderabilityCommunication": {
+          "title": {
+            
+          },
+          "subTitle": {
+            
+          },
+          "message": {
+            
+          },
+          "customIcon": {
+            
+          }
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        },
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "4.1",
+            "ratingCount": "1K+"
+          },
+          "source": "GOOGLE",
+          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-b461b3ff-6685-455f-94bf-54063248bcf5"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/go-fresh-the-pizza-house-malkajgiri-hyderabad-25009",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
+        "id": "2500956456",
+        "name": "Go Fresh - The Pizza House",
+        "cloudinaryImageId": "qxazqzn7kwmulsz2pdsl",
+        "locality": "Malkajgiri",
+        "areaName": "Malkajgiri",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+          "Italian",
+          "Pizzas"
+        ],
+        "avgRating": 4.3,
+        "parentId": "2916",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "10K+",
+        "sla": {
+          "deliveryTime": 20,
+          "lastMileTravel": 2.4,
+          "serviceability": "SERVICEABLE",
+          "slaString": "20-25 mins",
+          "lastMileTravelString": "2.4 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2024-07-14 23:59:00",
+          "opened": true
+        },
+        "badges": {
+          
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              
+            },
+            "textBased": {
+              
+            },
+            "textExtendedBadges": {
+              
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "loyaltyDiscoverPresentationInfo": {
+          "logoCtx": {
+            "logo": "Swiggy%20One%20Lite/One_lite_vertical_logo.png"
+          },
+          "freedelMessage": "FREE DELIVERY",
+          "badgeType": "BADGE_TYPE_ONE_LITE"
+        },
+        "orderabilityCommunication": {
+          "title": {
+            
+          },
+          "subTitle": {
+            
+          },
+          "message": {
+            
+          },
+          "customIcon": {
+            
+          }
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {
+              
+            },
+            "video": {
+              
+            }
+          }
+        },
+        "reviewsSummary": {
+          
+        },
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {
+          
+        },
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "4.1",
+            "ratingCount": "1K+"
+          },
+          "source": "GOOGLE",
+          "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-b461b3ff-6685-455f-94bf-54063248bcf5"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/restaurants/go-fresh-the-pizza-house-malkajgiri-hyderabad-25009",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+      },
+      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+      "info": {
         "id": "47668",
         "name": "Reddy's Kitchen",
         "cloudinaryImageId": "iaqz9j8z1etvcl9148vp",
@@ -585,7 +1355,7 @@ const resList = [
           "Cafe",
           "Desserts"
         ],
-        "avgRating": 4.4,
+        "avgRating": 4.8,
         "parentId": "630",
         "avgRatingString": "4.4",
         "totalRatingsString": "10K+",
